@@ -35,13 +35,6 @@ Created & Maintained by **Swathi M**
 4. Launch the app and create your account.  
 > ⚠️ Requires Android version 4.0 or later.
 
----
-
-## 📂 Project Assets
-
-- 🔍 [View Database Snapshots](https://github.com/imShakil/BloodBank/wiki/Database-Snapshots)  
-- 🧪 [Change Firebase Database/Package Name](https://www.youtube.com/watch?v=nAzAo7shGKQ&ab_channel=AnubhavAnand)  
-- 🛠 [Latest Dev Version](https://github.com/imShakil/BloodBank/tree/2.1)
 
 ---
 
