@@ -1,74 +1,45 @@
-Blood Point – Android Blood Donation App
-Developed by Swathi M
+# 🩸 Blood Point – Android Blood Donation App  
+Created & Maintained by **Swathi M**
 
-📱 About
-Blood Point is an Android application designed to simplify the process of blood donation and collection, especially benefiting users in rural areas. It allows people with Android phones and active internet connections to connect with blood donors or recipients quickly and easily.
+## 💫 About the Project  
+**Blood Point** is an Android application designed to help people, especially in rural areas, easily find or donate blood. With just a smartphone and internet access, users can connect with donors, locate hospitals, and manage their profiles efficiently.
 
-✅ Features
-Seamless contact between blood donors and recipients
+📱 Aimed at enhancing access to life-saving resources through technology.  
+🎯 Built for Android devices with support starting from Android 4.0 (API level 17).  
+🔧 Fully open source and ideal for educational projects and community contribution.
 
-Intuitive user registration and login
+---
 
-Find blood group-specific donors quickly
+## 🔍 Features
+- 📲 User Login & Signup  
+- 🩸 Blood Group Based Donor Search  
+- 🏥 Nearby Hospital Locator via Google Maps  
+- 🧑‍🤝‍🧑 Donor Database Management  
+- 🏆 Achievements & Reward System  
 
-Nearby hospital locator using Google Maps
+---
 
-Donor database management
+## 🛠 Tech Stack  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![Google Maps API](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)  
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
-Achievements & rewards for active users
+---
 
-🛠️ Tools & Technologies Used
-Firebase Realtime Database
 
-Firebase Authentication
+## 🤝 Contributions Welcome
 
-Google Maps API
+Want to contribute? Switch to the latest dev version and raise a PR to that branch.  
+Please ⭐ the project if you find it useful or educational.
 
-Android Studio (IDE)
+---
 
-Android SDK Versions 17–28
+## ✨ Developed by  
+**Swathi M**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swathi-muralinathan/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swathimuralinathan97@gmail.com)
 
-Supports Android 4.0 or later
 
-📥 How to Install?
-Open Chrome or any browser on your Android device.
 
-Paste this link to download the APK:
-Download Blood Point APK
-
-Install the application on your phone.
-
-Launch the app and create an account to get started.
-
-⚠️ Note: Supported only on Android version 4.0 and above.
-
-📸 Preview
-Splash Screens
-
-Application Views
-(Visit GitHub repo for images)
-
-📊 Database Snapshot
-You can explore the database structure and entries here:
-🔗 Database Snapshots
-
-🛠️ Changing Firebase Database & Package Name
-If you want to customize the project, here's a helpful tutorial:
-🎥 Watch on YouTube
-
-🤝 Contribution
-You're welcome to contribute to the project.
-
-🔔 Note: The master branch doesn't contain active code.
-To contribute:
-
-Switch to the latest version: BloodBank 2.1 branch
-
-Make your changes and create a pull request on the correct branch.
-
-💖 Support
-If you'd like to support further development or enhancements to Blood Point, feel free to contribute via the GitHub platform or simply leave a ⭐ if you find it helpful.
-
-🙏 Thank You
-Built with the goal of saving lives and making blood donation easier for everyone.
-Maintained and enhanced by: Swathi M
+<!-- Built with 💖 by Swathi M -->
