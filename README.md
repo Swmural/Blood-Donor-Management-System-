@@ -1,71 +1,63 @@
-# About
-“Blood Point” is an android application to collect or donate blood easily. Users who have an android phone & active internet connection can contact and start searching for a donor easily through this application. The purpose of this application is to help people belonging to rural areas.
+# 🩸 Blood Point – Android Blood Donation App  
+Created & Maintained by **Swathi M**
 
-# Features
-Easy contact between blood donor and blood recipient through this android application.<br>
-Included:
-- User Databases
-- User Login & Sign up
-- Donor Details
-- Finding blood group easily
-- Finding Near By Hospitals
-- Achievements & Rewards
-       
-# Tools used
-- Firebase Database
-- Firebase Authentication
-- Google Maps Api
-- Android Studio IDE
-- Android version 4.0 or later
-- Android SDK 17-28
-  
-# How to install?
+## 💫 About the Project  
+**Blood Point** is an Android application designed to help people, especially in rural areas, easily find or donate blood. With just a smartphone and internet access, users can connect with donors, locate hospitals, and manage their profiles efficiently.
 
-You can install this application to test on your android smartphone. To download the signed application go to your chrome browser and copy-paste the download link:
+📱 Aimed at enhancing access to life-saving resources through technology.  
+🎯 Built for Android devices with support starting from Android 4.0 (API level 17).  
+🔧 Fully open source and ideal for educational projects and community contribution.
 
-```
-https://github.com/imShakil/BloodBank/releases/latest/download/blood-point.apk
-```
+---
 
-Download will be started automatically. After then install it on your android device.
-Open the application, create an account. That's it.
+## 🔍 Features
+- 📲 User Login & Signup  
+- 🩸 Blood Group Based Donor Search  
+- 🏥 Nearby Hospital Locator via Google Maps  
+- 🧑‍🤝‍🧑 Donor Database Management  
+- 🏆 Achievements & Reward System  
 
-N.B: It supports only in android version 4.0 or later.
+---
 
-# Preview:
-<img src="https://raw.githubusercontent.com/imShakil/BloodBank/master/spalsh.png" alt="Splash Screen" width="98" height="200" /> <img src="https://raw.githubusercontent.com/imShakil/BloodBank/master/bloodbank2.png" alt="Splash Screen" width="100" height="200" /> <img src="https://raw.githubusercontent.com/imShakil/BloodBank/master/bloodbank6.png" alt="Splash Screen" width="100" height="200" /> <img src="https://raw.githubusercontent.com/imShakil/BloodBank/master/bloodbank3.png" alt="Splash Screen" width="100" height="200" /> <img src="https://raw.githubusercontent.com/imShakil/BloodBank/master/bloodbank4.png" alt="Splash Screen" width="100" height="200" /> <img src="https://raw.githubusercontent.com/imShakil/BloodBank/master/bloodbank1.png" alt="Splash Screen" width="100" height="200" /> <img src="https://raw.githubusercontent.com/imShakil/BloodBank/master/bloodbank5.png" alt="Splash Screen" width="100" height="200" /> 
+## 🛠 Tech Stack  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![Google Maps API](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)  
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
+---
 
+## 📥 How to Install
 
-![](https://img.shields.io/github/stars/imshakil/BloodBank.svg)
-![](https://img.shields.io/github/forks/imshakil/BloodBank.svg)
-[![Views](https://hits.dwyl.com/imshakil/BloodBank.svg?style=flat-square&show=unique)](http://hits.dwyl.com/imshakil/BloodBank)
-![](https://img.shields.io/github/tag/imshakil/BloodBank.svg) 
-![](https://img.shields.io/github/v/release/imshakil/BloodBank.svg) 
-![](https://img.shields.io/github/issues/imshakil/BloodBank.svg)
+1. Open Chrome on your Android device.
+2. Go to: [🔗 Download APK](https://github.com/imShakil/BloodBank/releases/latest/download/blood-point.apk)
+3. Install the APK on your device.
+4. Launch the app and create your account.  
+> ⚠️ Requires Android version 4.0 or later.
 
-# Database Snapshot
-Follow this link: https://github.com/imShakil/BloodBank/wiki/Database-Snapshots
-(This project can be used for any educational purpose and can be changed or modified in need.<br><b> A star will be appriciated if you think it might be helpful.</b>)<br>
+---
 
-# Changing Database and Package Name
-I got so many mails on about 'How to change Database link and Package Name'. So, Who has queries can watch this video: https://www.youtube.com/watch?v=nAzAo7shGKQ&ab_channel=AnubhavAnand
+## 📂 Project Assets
 
+- 🔍 [View Database Snapshots](https://github.com/imShakil/BloodBank/wiki/Database-Snapshots)  
+- 🧪 [Change Firebase Database/Package Name](https://www.youtube.com/watch?v=nAzAo7shGKQ&ab_channel=AnubhavAnand)  
+- 🛠 [Latest Dev Version](https://github.com/imShakil/BloodBank/tree/2.1)
 
-# Contribution
+---
 
-If you would like to contribute in this project, you are always welcome. There is no `code` avilable in the `master` branch. Please `switch` specific version and make changes there. For example, the latest dev version is: https://github.com/imShakil/BloodBank/tree/2.1
-You must need to create pull request to that specific branch to get it merged.
+## 🤝 Contributions Welcome
 
-# Support
+Want to contribute? Switch to the latest dev version and raise a PR to that branch.  
+Please ⭐ the project if you find it useful or educational.
 
-If you would like to support this project for better version, you can give some support [here](https://buymeacoffee.com/imshakil).
+---
 
+## ✨ Developed by  
+**Swathi M**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swathi-muralinathan/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swathimuralinathan97@gmail.com)
 
-Thanks
+---
+[![](https://visitcount.itsvg.in/api?id=BloodPointApp&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Regards ~ Shakil
-
-
-
-
+<!-- Built with 💖 by Swathi M -->
